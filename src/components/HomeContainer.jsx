@@ -24,17 +24,14 @@ const HomeContainer = () => {
         </div>
 
         <p className="text-[2.5rem] lg:text-[4.5rem] font-bold tracking-wide text-headingColor">
-          The Fastest Delivery in
+          The Fastest Delivery in <br />
           <span className="text-orange-600 text-[3rem] lg:text-[5rem]">
             Your City
           </span>
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-          eaque fugit distinctio est nam voluptatum architecto, porro iusto
-          deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-          suscipit!
+          We are a bike delivery company that delivers bikes to your doorstep
         </p>
 
         <button
